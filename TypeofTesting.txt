@@ -7,3 +7,14 @@ Integration Testing
 ■ Integration testing is the process of testing the interface between two software units or modules
 ■ Integration Testing is conducted by Developers.
 ■ It is type of blackbox testing.
+
+Updated by 34 Raelyn
+System Testing
+It is checking how components interact with each other and the system, was well as testing every possible input/output.
+Conducted by a testing team seperate from development team.
+Black Box
+
+Acceptance Testing
+It is a quality assurance process that ensures the application meets end users approval.
+Conducted by customers or users of the software.
+Black Box
